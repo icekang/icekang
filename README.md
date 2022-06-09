@@ -1,5 +1,5 @@
 ### Hi there, I'm [Naravich Chutisilp](https://icekang.com) 👋
-[![icekang's GitHub stats](https://github-readme-stats.vercel.app/api?username=icekang)](https://github.com/anuraghazra/github-readme-stats)
+[![icekang's GitHub stats](https://github-readme-stats.vercel.app/api?username=icekang&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **icekang/icekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
